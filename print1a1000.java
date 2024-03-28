@@ -6,4 +6,4 @@ public class Main {
     }
   System.out.println("Soma de 1 a 1000: " + soma);
   }
-}
+} 
